@@ -12,12 +12,7 @@ const View = () => {
             { "Subscriber": "Treesa", "imglink": "https://drjathinsveincenter.com/wp-content/uploads/2022/03/What-Is-Interventional-Radiology-And-How-Does-It-Work-1.jpg" },
             { "Subscriber": "Maya", "imglink": "https://www.meitra.com/public/upload_file/631078e84cea61662023912.jpg" },
             { "Subscriber": "Neya", "imglink": "https://bouve.northeastern.edu/wp-content/uploads/2024/01/What-Is-Applied-Psychology-Hero-Image.jpg" },
-            { "Subscriber": "Gwen", "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJ69gUrJgJ3LEmMZmWUprFxulVmT5OohLoA&s" },
-            { "Subscriber": "Anoop", "imglink": "https://media.istockphoto.com/id/1485546774/photo/bald-man-smiling-at-camera-standing-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=9vuq6HxeSZfhZ7Jit_2HPVLyoajffb7h_SbWssh_bME=" },
-            { "Subscriber": "Vikram", "imglink": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Guy_Pearce_Cannes_2012_%28revised%29.jpg" },
-           
-
-
+            { "Subscriber": "Neya", "imglink": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Pathologists_looking_into_microscopes_%281%29.jpg" }
         ]
     )
     return (
